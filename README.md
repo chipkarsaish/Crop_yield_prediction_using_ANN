@@ -1,4 +1,3 @@
-This README provides a comprehensive overview of the **Crop Yield Prediction** project, which utilizes an Artificial Neural Network (ANN) to predict crop yields based on agricultural and environmental data.
 
 # Crop Yield Prediction using ANN
 
